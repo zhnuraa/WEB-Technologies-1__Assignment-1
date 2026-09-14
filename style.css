@@ -1,0 +1,52 @@
+#main-heading {
+    color: #1a2a3a;
+    font-size: 2rem;
+}
+
+.highlight {
+    background-color: yellow;
+    padding: 5px;
+}
+
+p {
+    line-height: 1.5;
+}
+
+.card {
+    background-color: #ffffff;
+    border: 2px solid #333333;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+
+.box {
+    width: 45%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+}
+
+.box-left {
+    float: left;
+}
+
+.box-right {
+    float: right; 
+    background-color: #2196F3;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.pos-box {
+    position: relative;
+    top: 10px;
+    background-color: #ff9800;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+}
