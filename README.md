@@ -30,3 +30,12 @@
 <img width="1920" height="977" alt="{D4D07916-BA9E-418F-AC63-4DE0BC3F5183}" src="https://github.com/user-attachments/assets/d0a2fe64-21ee-47c8-aec4-3b5d86428d6e" />
 
 <img width="1920" height="987" alt="{E5928271-3BFC-482C-ACEE-A96D3B496C7A}" src="https://github.com/user-attachments/assets/b8807576-de5e-402c-a07f-f9109a70afb5" />
+
+<img width="1895" height="1018" alt="{7A6FEBE2-9619-4D7B-BFE7-7622F2DF30B0}" src="https://github.com/user-attachments/assets/8bbb83d1-674a-4a13-afae-d12a00e9a124" />
+
+# Part 4
+
+**Step 15-20**
+<img width="1919" height="1041" alt="{C440B88D-11E0-4AE2-9237-9EB24755B469}" src="https://github.com/user-attachments/assets/fa06a54b-3de4-4994-846d-8145f0238121" />
+<img width="1914" height="968" alt="{D32BE3D5-248A-41ED-9DAE-C7A2B0262E9D}" src="https://github.com/user-attachments/assets/f2839ee8-de41-4fe9-af68-05cfded26e66" />
+<img width="1918" height="1012" alt="{900AACFB-F088-48C5-932E-9D025431415A}" src="https://github.com/user-attachments/assets/2045789e-f232-4a72-b8d1-fb04c69763f5" />
