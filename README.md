@@ -39,3 +39,8 @@
 <img width="1919" height="1041" alt="{C440B88D-11E0-4AE2-9237-9EB24755B469}" src="https://github.com/user-attachments/assets/fa06a54b-3de4-4994-846d-8145f0238121" />
 <img width="1914" height="968" alt="{D32BE3D5-248A-41ED-9DAE-C7A2B0262E9D}" src="https://github.com/user-attachments/assets/f2839ee8-de41-4fe9-af68-05cfded26e66" />
 <img width="1918" height="1012" alt="{900AACFB-F088-48C5-932E-9D025431415A}" src="https://github.com/user-attachments/assets/2045789e-f232-4a72-b8d1-fb04c69763f5" />
+
+
+**
+
+In this project, I created a personal webpage using HTML5 and CSS3. I implemented structured text, lists, images, media links, a weekly class schedule table, and an interactive contact form. For styling, I utilized inline, internal, and external CSS with elements, classes, and IDs. I applied the CSS Box Model, relative positioning, and float layouts, successfully deploying the final website on GitHub Pages.**
